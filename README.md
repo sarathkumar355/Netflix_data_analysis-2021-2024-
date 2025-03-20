@@ -1,4 +1,5 @@
 **NETFLIX_DATA_ANALYSIS(2021-2024)**
+
 **📊 PROJECT OVERVIEW**
 This project focuses on analyzing Netflix's viewership data from 2021 to 2024. The goal is to explore trends in weekly viewership, content categories, and other metrics to help optimize decision-making for content creators, marketers, and streaming platforms.
 
